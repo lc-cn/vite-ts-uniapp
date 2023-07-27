@@ -1,4 +1,4 @@
-# 🛒 vite ts uniapp
+#  vite ts uniapp
 基于 vite+vue3+ts 的 uniapp 项目
 
 # 🧐技术栈
